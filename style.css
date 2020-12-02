@@ -25,8 +25,15 @@ body {
 }
 
 .logo {
+  position: relative;
   padding: 40px 0;
   margin-right: 63%;
+  padding-left: 44px;
+  font: bold 24px/31px pt_serifregular, arial, helvetica, sans-serif;
+  width: 190px;
+  height: 35px;
+  border: dashed 1px red;
+  //background: url('img/logo.svg');
 }
 
 .menu {
